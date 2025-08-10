@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hey there, I'm Vijet Hegde</h1>
+<h1 align="center">👋 Hey there, I'm Vijet Hegde</h1>
 <h3 align="center">🚀 Building Project.Mush — Fast, purposeful AI for IT & Social Media challenges</h3>
 
 <p align="center">
